@@ -1,4 +1,4 @@
-# Restaurant_QBO_Guide
+# Restaurant_QBO_Guide_Meridian Accounting
 Complete QuickBooks Online guide for restaurant bookkeeping - 50+ procedures, templates, and best practices
 # The Complete QuickBooks Online Guide for Restaurant Bookkeeping
 
