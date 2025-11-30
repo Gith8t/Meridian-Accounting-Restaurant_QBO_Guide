@@ -3,11 +3,6 @@ Complete QuickBooks Online guide for restaurant bookkeeping - 50+ procedures, te
 
 Document Date - November 29, 2025
 
-# Meridian Accounting_Restaurant_QBO_Guide 
-Complete QuickBooks Online guide for restaurant bookkeeping - 50+ procedures, templates, and best practices
-
-Document Date - November 29, 2025
-
 # The Complete QuickBooks Online Guide for Restaurant Bookkeeping
 
 ## Table of Contents
@@ -81,7 +76,7 @@ Set up users with appropriate permissions:
 
 ### Revenue Accounts (4000-4999)
 
-```
+---
 4000 - Food Sales
 4010 - Beverage Sales (Non-Alcoholic)
 4020 - Beer Sales
