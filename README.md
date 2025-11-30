@@ -75,7 +75,7 @@ Set up users with appropriate permissions:
 ## Chart of Accounts
 
 ### Revenue Accounts (4000-4999)
-
+---
 
 4000 - Food Sales
 4010 - Beverage Sales (Non-Alcoholic)
