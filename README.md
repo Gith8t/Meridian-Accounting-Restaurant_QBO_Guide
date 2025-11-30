@@ -76,7 +76,8 @@ Set up users with appropriate permissions:
 
 ### Revenue Accounts (4000-4999)
 
-```  
+```
+
 4000 - Food Sales
 4010 - Beverage Sales (Non-Alcoholic)
 4020 - Beer Sales
