@@ -76,7 +76,6 @@ Set up users with appropriate permissions:
 
 ### Revenue Accounts (4000-4999)
 
-```
 4000 - Food Sales
 4010 - Beverage Sales (Non-Alcoholic)
 4020 - Beer Sales
@@ -89,9 +88,7 @@ Set up users with appropriate permissions:
 4080 - Service Charges
 4090 - Other Revenue
 
-
 ### Cost of Goods Sold (5000-5999)
-
 
 5000 - Food Purchases
 5010 - Beverage Purchases (Non-Alcoholic)
@@ -103,9 +100,7 @@ Set up users with appropriate permissions:
 5060 - Kitchen Smallwares
 5070 - Inventory Shrinkage
 
-
 ### Labor Costs (6000-6999)
-
 
 6000 - Management Salaries
 6010 - Chef/Kitchen Manager Salaries
@@ -118,9 +113,7 @@ Set up users with appropriate permissions:
 6080 - Employee Benefits
 6090 - Employee Meals
 
-
 ### Operating Expenses (7000-7999)
-
 
 7000 - Rent
 7010 - Common Area Maintenance (CAM)
@@ -147,7 +140,6 @@ Set up users with appropriate permissions:
 7180 - Bank Fees
 7190 - Miscellaneous Expense
 
-
 ---
 
 ## Daily Operations
@@ -167,7 +159,7 @@ Set up users with appropriate permissions:
    - Date: Business date (not batch date)
 
 3. **Enter Sales by Category**
-   ```
+   
    Line 1: Food Sales         $X,XXX.XX
    Line 2: Beverage Sales     $XXX.XX
    Line 3: Alcohol Sales      $XXX.XX
