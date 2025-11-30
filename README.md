@@ -88,18 +88,6 @@ Set up users with appropriate permissions:
 4080 - Service Charges
 4090 - Other Revenue
 ```
-4000 - Food Sales
-4010 - Beverage Sales (Non-Alcoholic)
-4020 - Beer Sales
-4025 - Wine Sales
-4030 - Liquor Sales
-4040 - Catering Revenue
-4050 - Private Events Revenue
-4060 - Delivery/Takeout Revenue
-4070 - Gift Card Sales
-4080 - Service Charges
-4090 - Other Revenue
-```
 
 ### Cost of Goods Sold (5000-5999)
 
