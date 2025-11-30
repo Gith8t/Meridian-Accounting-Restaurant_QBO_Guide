@@ -75,8 +75,8 @@ Set up users with appropriate permissions:
 ## Chart of Accounts
 
 ### Revenue Accounts (4000-4999)
----
 
+```
 4000 - Food Sales
 4010 - Beverage Sales (Non-Alcoholic)
 4020 - Beer Sales
@@ -743,6 +743,13 @@ Create a custom report tracking:
 Successful restaurant bookkeeping requires daily attention to detail, consistent procedures, and regular analysis. This guide provides the framework, but each restaurant will need to adapt these procedures to their specific needs.
 
 Remember: Good books lead to good decisions. Take the time to set up properly, train your team, and maintain consistent procedures. Your financial data will become one of your most valuable tools for managing and growing your restaurant.
+
+---
+
+*Last Updated: November 2024*
+*Version: 1.0*
+
+## Need Help?
 
 ---
 
