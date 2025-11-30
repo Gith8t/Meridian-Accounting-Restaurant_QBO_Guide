@@ -76,8 +76,7 @@ Set up users with appropriate permissions:
 
 ### Revenue Accounts (4000-4999)
 
-  
-
+```
 4000 - Food Sales
 4010 - Beverage Sales (Non-Alcoholic)
 4020 - Beer Sales
@@ -88,7 +87,7 @@ Set up users with appropriate permissions:
 4060 - Delivery/Takeout Revenue
 4070 - Gift Card Sales
 4080 - Service Charges
-4090 - Other Revenue
+4090 - Other Revenue  
 ```
 
 ### Cost of Goods Sold (5000-5999)
@@ -744,6 +743,7 @@ Create a custom report tracking:
 Successful restaurant bookkeeping requires daily attention to detail, consistent procedures, and regular analysis. This guide provides the framework, but each restaurant will need to adapt these procedures to their specific needs.
 
 Remember: Good books lead to good decisions. Take the time to set up properly, train your team, and maintain consistent procedures. Your financial data will become one of your most valuable tools for managing and growing your restaurant.
+
 
 ---
 
