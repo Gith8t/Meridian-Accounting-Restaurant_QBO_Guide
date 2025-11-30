@@ -3,6 +3,11 @@ Complete QuickBooks Online guide for restaurant bookkeeping - 50+ procedures, te
 
 Document Date - November 29, 2025
 
+# Meridian Accounting_Restaurant_QBO_Guide
+Complete QuickBooks Online guide for restaurant bookkeeping - 50+ procedures, templates, and best practices
+
+Document Date - November 29, 2025
+
 # The Complete QuickBooks Online Guide for Restaurant Bookkeeping
 
 ## Table of Contents
@@ -750,6 +755,7 @@ Remember: Good books lead to good decisions. Take the time to set up properly, t
 *Version: 1.0*
 
 ## Need Help?
+
 
 ---
 
